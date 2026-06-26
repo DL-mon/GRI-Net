@@ -1,3 +1,14 @@
+# 🤖 Pre-trained Model Weights
+
+The trained weights of GRI-Net used can be downloaded from the link below.
+
+**Download:**  
+**[Model Weights](https://drive.google.com/file/d/1DJ-dFmTE2NMZ83-OVPkugIEVtSLSG545/view?usp=sharing)**
+
+
+
+
+
 # 📂 Dataset
 
 The datasets used in this study are publicly available and can be downloaded from the links below.
